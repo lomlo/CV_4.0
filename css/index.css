@@ -1,0 +1,282 @@
+html, body {
+  height:100%;
+  margin: 0;
+  font-size: 62.5%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+/*font styling*/
+h1, h2, h3, h4 {
+  margin: 0px;
+  color: white;
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: black;
+  text-align: left;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.5rem; }
+
+.center-text {
+  text-align: center;
+}
+
+.underline {
+  text-decoration: underline;
+  color: white;
+}
+
+/*navigation*/
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #282828;
+  height: 120px;
+}
+
+nav h1 {
+  font-size: 2.5rem;
+  padding-bottom: 1.5rem;
+  color: white;
+}
+
+nav h2 {
+  font-size: 1.8rem;
+  color: white;
+}
+
+nav li {
+  font-family: "Helvetica Neue", sans-serif;
+  display: inline;
+  text-decoration: none;
+  font-size: 2.5rem;
+}
+
+#work {
+  padding-right: 10rem;
+}
+
+a:link, a:visited, a:hover{
+  color: white;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  text-decoration: underline;
+}
+
+.title {
+  padding-left:8%;
+}
+
+.navigation {
+  padding-right: 15%;
+}
+
+/*jumbotron*/
+.spotlight {
+  width: 100%;
+  height: 500px;
+  background: white;
+  position: relative;
+  padding: 0px;
+  margin: 50px 0px 0px 0px;
+  text-align: center;
+}
+
+.hero-panel, .page-indicator, .left-arrow, .right-arrow {
+  display: inline-block;
+}
+
+.left-arrow, .right-arrow {
+  background-color: white;
+  width: 10%;
+  height: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.left-arrow {
+  float: left;
+}
+
+.right-arrow {
+  float: right;
+}
+
+.arrow-icon img {
+  height:50px;
+  width: 50px;
+}
+
+.hero-panel {
+  margin: auto;
+  width: 80%;
+  height: 100%;
+  background-color: red;
+}
+
+.overview {
+  width: 100%;
+  height: 80%;
+  display: flex;
+  background-color: white;
+}
+
+.overview-container {
+  width:90%;
+  max-width:900px;
+  height: 90%;
+  margin: auto;
+  vertical-align: bottom;
+  display: flex;
+  align-items: center;
+  /*background-color: black;*/
+}
+
+.overview-container img {
+  height: 80%;
+  width: 43%;
+  margin-left: 2%
+  /*background-color: orange;*/
+}
+
+.overview-content {
+  height: 70%;
+  width: 45%;
+  margin-left: 5%
+  /*background-color: purple;*/
+}
+
+.overview-content h2 {
+  margin-top: 30px;
+}
+
+.page-indicator {
+  width: 100%;
+  height: 20%;
+  display: flex;
+  background-color: white;
+}
+
+.indicator {
+  width: 100%;
+  height: 45%;
+  margin: auto;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #282828;
+}
+
+#circle-container {
+  height:100%;
+  width: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#circle-container div {
+  border-radius: 50%;
+  height: 12px;
+  width: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: white;
+}
+
+#circle-container #active {
+  border-radius: 50%;
+  height: 70%;
+  width: 70%;
+  background-color: #282828;
+}
+
+/*tools*/
+.tools, .content-container {
+  width: 80%;
+  max-width: 1000px;
+  border: 1px black solid;
+  margin: auto;
+  background-color: white;
+}
+
+.tools {
+  height: 200px;
+}
+
+#tools-title{
+  width: 100%;
+  height: 30%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /*background-color: green;*/
+}
+
+#tools-list {
+  width: 100%;
+  height: 70%;
+  display: flex;
+  justify-content: space-around;
+  /*background-color: blue;*/
+}
+
+.tools-item {
+  height: 100%;
+  width:20%;
+  display: flex;
+  flex-direction: column;
+  /*background-color: black;*/
+}
+
+.tools-item div {
+  height:50%;
+  width:50%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*background-color:yellow;*/
+}
+
+.tools-item img {
+  width: 80%;
+  height: 80%;
+}
+
+.tools-item div:nth-child(2) {
+  width:100%;
+  /*background-color:red;*/
+}
+
+/*content*/
+
+.content-container {
+  margin-top: 25px;
+  height: 1000px;
+}
+
+.content {
+  width:95%;
+  height: 100%;
+  margin: auto;
+  border: solid 1px black;
+}
