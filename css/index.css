@@ -19,7 +19,6 @@ h1, h2, h3, h4 {
   color: white;
   font-family: "Helvetica Neue", sans-serif;
   font-weight: 400;
-  letter-spacing: 1px;
   color: black;
   text-align: left;
 }
@@ -28,14 +27,32 @@ h1 { font-size: 2.5rem; }
 h2 { font-size: 1.8rem; }
 h3 { font-size: 1.5rem; }
 
+.spaced-letters {
+  letter-spacing: 1px;
+}
+
 .center-text {
   text-align: center;
 }
 
 .underline {
   text-decoration: underline;
-  color: white;
 }
+
+.title-top-margin {
+  margin-top: 70px;
+  letter-spacing: 0.5px;
+}
+
+.section-top-margin {
+  margin-top: 50px;
+  letter-spacing: 0.5px;
+}
+
+.regular-top-margin {
+  margin-top: 30px;
+}
+
 
 /*navigation*/
 nav {
@@ -271,12 +288,43 @@ a:active {
 
 .content-container {
   margin-top: 25px;
-  height: 1000px;
+  /*height: 1000px;*/
 }
 
 .content {
   width:95%;
   height: 100%;
   margin: auto;
-  border: solid 1px black;
+  /*border: solid 1px black;*/
+}
+
+.content img {
+  width: 100%;
+  height: auto;
+}
+
+/*button*/
+.button-container {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-container div {
+  height:50px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  /*background-color: black;*/
+}
+
+#button {
+  font-size: 1.8rem;
+  margin-right: 8%;
+  color:white;
+  background-color: #282828;
+  padding: 15px;
 }
