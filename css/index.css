@@ -263,14 +263,6 @@ a:active {
 }
 
 /*tools*/
-.tools, .content-container {
-  width: 80%;
-  max-width: 1000px;
-  border: 1px black solid;
-  margin: auto;
-  background-color: white;
-}
-
 .tools {
   height: 200px;
 }
@@ -324,7 +316,6 @@ a:active {
 
 .content-container {
   margin-top: 25px;
-  /*height: 1000px;*/
 }
 
 .content {
@@ -404,4 +395,15 @@ a:active {
   border: solid black 1px;
   display: flex;
   align-items: center;
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+  .tools, .content-container {
+    width: 80%;
+    max-width: 1000px;
+    border: 1px black solid;
+    margin: auto;
+    background-color: white;
+  }
 }
