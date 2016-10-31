@@ -14,8 +14,8 @@
 }
 
 .img-container img {
-  height: 70%;
-  width: 70%;
+  height: 50%;
+  width: auto;
 }
 
 .flex-center, .flex-md-right, .flex-md-left {
@@ -46,8 +46,13 @@
       text-align: left;
     }
 
-    .cv-section-top-margin {
+    .md-section-top-margin {
       margin-top: 50px;
       letter-spacing: 0.5px;
+    }
+
+    .img-container img {
+      height: 70%;
+      width: auto;
     }
 }
