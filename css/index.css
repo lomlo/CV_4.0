@@ -397,6 +397,17 @@ a:active {
   align-items: center;
 }
 
+/* Custom, iPhone Retina */
+ @media only screen and (min-width : 320px) {
+   .tools, .content-container {
+     width: 90%;
+     max-width: 1000px;
+     margin: auto;
+     background-color: white;
+   }
+ }
+
+
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
   .tools, .content-container {
