@@ -38,10 +38,3 @@
 .text-left {
   float: right;
 }
-
-/* Small Devices, Tablets */
-@media only screen and (min-width : 768px) {
-  body {
-    background-color: red;
-  }
-}
