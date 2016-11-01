@@ -345,6 +345,13 @@ a.active {
   /*border: solid 1px black;*/
 }
 
+.content h1 {
+  padding:7px;
+  color:white;
+  font-weight: 300;
+  line-height: inherit;
+  background-color: #282828;
+}
 /*button*/
 .button-container {
   width: 100%;
@@ -420,14 +427,16 @@ a.active {
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
 
-
+.tools {
+  border: 1px black solid;
+}
 
   .tools, .content-container {
     width: 80%;
     max-width: 1000px;
-    border: 1px black solid;
     margin: 50px auto 0px;
     background-color: white;
+    /*border: 1px black solid;*/
   }
 
   .verticle-responsive {
