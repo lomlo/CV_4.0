@@ -139,6 +139,14 @@ a:active {
 }
 
 /*jumbotron*/
+
+.spotlight-background {
+  display: inline-block;
+  height: 500px;
+  width: 100%;
+  background-color: #EAEAEA;
+}
+
 .spotlight {
   width: 100%;
   max-width: 1000px;
@@ -147,7 +155,13 @@ a:active {
   padding: 0px;
   margin: auto;
   text-align: center;
-  background: white;
+  background: #EAEAEA;
+}
+
+.spotlight-bottom-border {
+  height: 3px;
+  width: 100%;
+  background-color: #282828;
 }
 
 .hero-panel, .page-indicator, .left-arrow, .right-arrow {
@@ -155,12 +169,12 @@ a:active {
 }
 
 .left-arrow, .right-arrow {
-  background-color: white;
   width: 10%;
   height: 80%;
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: #EAEAEA;
 }
 
 .left-arrow {
@@ -180,14 +194,14 @@ a:active {
   margin: auto;
   width: 80%;
   height: 100%;
-  background-color: red;
+  background-color: #EAEAEA;
 }
 
 .overview {
   width: 100%;
   height: 80%;
   display: flex;
-  background-color: white;
+  background-color: #EAEAEA;
 }
 
 .overview-container {
@@ -223,7 +237,7 @@ a:active {
   width: 100%;
   height: 20%;
   display: flex;
-  background-color: white;
+  background-color: #EAEAEA;
 }
 
 .indicator {
