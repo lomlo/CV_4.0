@@ -24,7 +24,7 @@
 
 .md-text-left, .md-text-right {
   max-width: 350px;
-  text-align: center;
+  text-align: left;
 }
 
 .text-left {
