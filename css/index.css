@@ -16,7 +16,6 @@ html, body {
 /*font styling*/
 h1, h2, h3, h4 {
   margin: 0px;
-  color: white;
   font-family: "Helvetica Neue", sans-serif;
   font-weight: 400;
   color: black;
@@ -352,10 +351,10 @@ a.active {
 
 .content h1 {
   padding:7px;
-  color:white;
+  color:#282828;
   font-weight: 300;
-  line-height: inherit;
-  background-color: #282828;
+  background-color: #EAEAEA;
+  border: 3px solid #282828;
 }
 /*button*/
 .button-container {
