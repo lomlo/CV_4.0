@@ -69,6 +69,11 @@ h3 { font-size: 1.5rem; }
   height: auto;
 }
 
+.fill-height {
+  height: 100%;
+  width: auto;
+}
+
 .fill-width-70-percent {
   width: 70%;
   height:auto;
