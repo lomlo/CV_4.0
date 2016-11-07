@@ -451,9 +451,9 @@ a.active {
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
 
-.tools {
-  border: 1px black solid;
-}
+  .tools {
+    border: 1px black solid;
+  }
 
   .tools, .content-container {
     width: 80%;
@@ -472,5 +472,12 @@ a.active {
   .md-title-top-margin {
     margin-top: 70px;
     letter-spacing: 0.5px;
+  }
+
+  .md-fill-width-90-percent {
+    width: 90%;
+    height:auto;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 }
