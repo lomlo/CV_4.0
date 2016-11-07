@@ -12,6 +12,13 @@
   align-items: center;
 }
 
+.xs-spacing-fill {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
 
 .img-container {
   height: 100%;
