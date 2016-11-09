@@ -113,6 +113,12 @@ h3 { font-size: 1.5rem; }
   margin: auto;
 }
 
+/*displays*/
+
+#md-upwards {
+  display: none;
+}
+
 /*positions */
 
 .flex-xy-center {
@@ -490,5 +496,9 @@ a.active {
     height:auto;
     margin-left: 5%;
     margin-right: 5%;
+  }
+
+  #md-upwards {
+    display: block;
   }
 }
