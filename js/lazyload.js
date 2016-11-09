@@ -1,5 +1,6 @@
 $(function() {
   $("img.lazy").lazyload({
-    threshold : 350
+    threshold : 400,
+    effect: "fadeIn"
   });
 });
