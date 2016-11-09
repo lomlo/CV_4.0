@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="848px" height="317px" viewBox="0 0 848 317" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Gathering-Requirements</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="275" width="345" height="42"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="345" height="42" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="503" y="275" width="345" height="42"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="345" height="42" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="503" y="0" width="345" height="275"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="345" height="275" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="0" y="0" width="345" height="275"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="345" height="275" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Gathering-Requirements">
+            <path d="M15.5,62.5 L15.5,124.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+            <use id="Rectangle-29" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <use id="Rectangle-29-Copy" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-3"></use>
+            <use id="Rectangle-28-Copy" stroke="#979797" mask="url(#mask-6)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-5"></use>
+            <g id="BMC-exmaple-02" transform="translate(507.000000, 27.000000)">
+                <g id="Layer_1">
+                    <rect id="Rectangle-path" stroke="#000000" fill="#FFFFFF" x="0.772075342" y="0.77121875" width="114.726692" height="220.395125"></rect>
+                    <path d="M81.4583493,109.265625 L141.411329,109.265625" id="Shape" stroke="#000000"></path>
+                    <polygon id="Shape" stroke="#000000" fill="#000000" points="136.88537 114.696531 136.550842 105.162094 144.983479 109.64025"></polygon>
+                    <path d="M88.5,153.973187 L226.296788,153.973187" id="Shape" stroke="#000000"></path>
+                    <polygon id="Shape" stroke="#000000" fill="#000000" points="226.147466 159.000563 226.016664 149.791031 234.245575 153.944281"></polygon>
+                    <path d="M84.5,179.410687 L226.296788,179.410687" id="Shape" stroke="#000000"></path>
+                    <polygon id="Shape" stroke="#000000" fill="#000000" points="226.147466 184.438063 226.016664 175.228531 234.245575 179.381781"></polygon>
+                    <path d="M98.5,198.683063 L225.524712,198.683063" id="Shape" stroke="#000000"></path>
+                    <polygon id="Shape" stroke="#000000" fill="#000000" points="225.37539 203.708125 225.244589 194.498594 233.4735 198.651844"></polygon>
+                    <g id="Group" transform="translate(12.343993, 95.849344)" font-size="8" font-family="Helvetica" fill="#000000" font-weight="normal">
+                        <text id="Offers-Vegetarian">
+                            <tspan x="0" y="8">Offers Vegetarian</tspan>
+                        </text>
+                        <text id="options">
+                            <tspan x="0" y="19.1">options</tspan>
+                        </text>
+                    </g>
+                    <g id="Group" transform="translate(13.343993, 144.146219)" font-size="8" font-family="Helvetica" fill="#000000" font-weight="normal">
+                        <text id="Allows-pre-ordering">
+                            <tspan x="0" y="8">Allows pre-ordering</tspan>
+                        </text>
+                        <text id="before-arrival">
+                            <tspan x="0" y="17.25">before arrival</tspan>
+                        </text>
+                        <text id="Offers-set-menus">
+                            <tspan x="0" y="35.75">Offers set menus</tspan>
+                        </text>
+                        <text id="Free-parking-available">
+                            <tspan x="0" y="54.25">Free parking available</tspan>
+                        </text>
+                    </g>
+                    <rect id="Rectangle-path" fill="#FFFFFF" x="7.1385137" y="2.50559375" width="102.187123" height="11.88625"></rect>
+                    <text id="Features-Content" fill="#000000" font-family="Helvetica" font-size="12" font-weight="normal">
+                        <tspan x="171" y="22">Features          Content</tspan>
+                    </text>
+                    <path d="M238.259904,10.7912813 L238.259904,221.227625" id="Shape" stroke="#000000" fill="#000000"></path>
+                    <g id="Group" transform="translate(157.232507, 92.883875)" font-size="8" font-family="Helvetica" fill="#000000" font-weight="normal">
+                        <text id="Interactive-menu">
+                            <tspan x="0" y="8">Interactive menu</tspan>
+                        </text>
+                        <text id="sorting-items-via">
+                            <tspan x="0" y="17.25">sorting items via</tspan>
+                        </text>
+                        <text id="dietry-requirements">
+                            <tspan x="0" y="26.5">dietry requirements</tspan>
+                        </text>
+                    </g>
+                    <g id="Group" transform="translate(243.662116, 92.883875)" font-size="8" font-family="Helvetica" fill="#000000" font-weight="normal">
+                        <text id="Icons-for-identifying">
+                            <tspan x="0" y="8">Icons for identifying</tspan>
+                        </text>
+                        <text id="vegetatian-options-on">
+                            <tspan x="0" y="17.25">vegetatian options on</tspan>
+                        </text>
+                        <text id="the-menu">
+                            <tspan x="0" y="26.5">the menu</tspan>
+                        </text>
+                    </g>
+                    <g id="Group" transform="translate(244.434192, 139.905094)" font-size="8" font-family="Helvetica" fill="#000000" font-weight="normal">
+                        <text id="Potential-promotional">
+                            <tspan x="0" y="8">Potential promotional</tspan>
+                        </text>
+                        <text id="material-sent-to-offices">
+                            <tspan x="0" y="17.25">material sent to offices</tspan>
+                        </text>
+                    </g>
+                    <text id="Set-Menus-on-website" fill="#000000" font-family="Helvetica" font-size="8" font-weight="normal">
+                        <tspan x="244.434192" y="177.582562">Set Menus on website</tspan>
+                    </text>
+                    <g id="Group" transform="translate(244.434192, 190.395062)" font-size="8" font-family="Helvetica" fill="#000000" font-weight="normal">
+                        <text id="Show-free-parking">
+                            <tspan x="0" y="8">Show free parking</tspan>
+                        </text>
+                        <text id="is-available">
+                            <tspan x="0" y="17.25">is available</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="section-1">
+                <use id="Rectangle-28" stroke="#979797" mask="url(#mask-8)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-7"></use>
+                <g id="Section-1" transform="translate(15.000000, 27.000000)">
+                    <g id="BMC-example1-01">
+                        <g id="Layer_1">
+                            <rect id="Rectangle-path" stroke="#000000" fill="#FFFFFF" x="197.171053" y="0" width="114.370003" height="225.542084"></rect>
+                            <rect id="Rectangle-path" stroke="#000000" fill="#FFFFFF" x="0.592105263" y="2.36649215" width="114.339996" height="221.400723"></rect>
+                            <rect id="Rectangle-path" fill="#FFFFFF" x="199.539474" y="5.32460733" width="18.9473684" height="216.202723"></rect>
+                            <rect id="Rectangle-path" fill="#FFFFFF" x="301.973684" y="7.69109948" width="9.47368421" height="216.202723"></rect>
+                            <g id="Group" transform="translate(11.250000, 95.476440)" font-size="10" font-family="Helvetica" fill="#000000" font-weight="normal">
+                                <text id="Vegetarian">
+                                    <tspan x="0" y="10">Vegetarian</tspan>
+                                </text>
+                                <text id="Customers">
+                                    <tspan x="0" y="24">Customers</tspan>
+                                </text>
+                            </g>
+                            <g id="Group" transform="translate(11.618421, 143.989529)" font-size="10" font-family="Helvetica" fill="#000000" font-weight="normal">
+                                <text id="Office">
+                                    <tspan x="0" y="10">Office</tspan>
+                                </text>
+                                <text id="Workers">
+                                    <tspan x="0" y="22">Workers</tspan>
+                                </text>
+                            </g>
+                            <path d="M71.5,109.450262 L204.276316,109.450262" id="Shape" stroke="#000000"></path>
+                            <path d="M70.4997119,156.780105 L206.644737,156.780105" id="Shape" stroke="#000000"></path>
+                            <polygon id="Shape" stroke="#000000" fill="#000000" points="199.646053 115.007969 199.303816 105.250921 207.930789 109.833634"></polygon>
+                            <polygon id="Shape" stroke="#000000" fill="#000000" points="199.646053 163.521058 199.303816 153.76401 207.930789 158.346723"></polygon>
+                            <g id="Group" transform="translate(220.263158, 95.251309)" font-size="8" font-family="Helvetica" fill="#000000" font-weight="normal">
+                                <text id="Offers-Vegetarian">
+                                    <tspan x="0" y="8">Offers Vegetarian</tspan>
+                                </text>
+                                <text id="options">
+                                    <tspan x="0" y="19.3591623">options</tspan>
+                                </text>
+                            </g>
+                            <g id="Group" transform="translate(220.263158, 146.722513)" font-size="8" font-family="Helvetica" fill="#000000" font-weight="normal">
+                                <text id="Allows-pre-ordering">
+                                    <tspan x="0" y="8">Allows pre-ordering</tspan>
+                                </text>
+                                <text id="before-arrival">
+                                    <tspan x="0" y="17.4659686">before arrival</tspan>
+                                </text>
+                                <text id="Offers-set-menus">
+                                    <tspan x="0" y="36.3979058">Offers set menus</tspan>
+                                </text>
+                                <text id="Free-parking-available">
+                                    <tspan x="0" y="55.3298429">Free parking available</tspan>
+                                </text>
+                            </g>
+                            <rect id="Rectangle-path" fill="#FFFFFF" x="203.684211" y="211.209424" width="104.542105" height="12.1637696"></rect>
+                            <rect id="Rectangle-path" fill="#FFFFFF" x="203.684211" y="1.77486911" width="104.542105" height="12.1637696"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <text id="Who-do-you-help?" font-family="GillSansMT, Gill Sans MT" font-size="23" font-weight="normal" line-spacing="19" letter-spacing="-0.184" fill="#000000">
+                <tspan x="28" y="58">Who do </tspan>
+                <tspan x="28" y="77">you help?</tspan>
+            </text>
+            <text id="Who-do-you-help?-Copy" font-family="GillSansMT, Gill Sans MT" font-size="23" font-weight="normal" line-spacing="19" letter-spacing="-0.184" fill="#000000">
+                <tspan x="225" y="58">Who do </tspan>
+                <tspan x="225" y="77">you help?</tspan>
+            </text>
+            <text id="Who-do-you-help?-Copy-2" font-family="GillSansMT, Gill Sans MT" font-size="23" font-weight="normal" line-spacing="19" letter-spacing="-0.184" fill="#000000">
+                <tspan x="225" y="58">Who do </tspan>
+                <tspan x="225" y="77">you help?</tspan>
+            </text>
+            <text id="CUSTOMER-SEGMENT" font-family="GillSansMT, Gill Sans MT" font-size="9" font-weight="normal" letter-spacing="-0.0719999969" fill="#000000">
+                <tspan x="28" y="98">CUSTOMER </tspan>
+                <tspan x="28" y="108">SEGMENT</tspan>
+            </text>
+            <text id="VALUE-PROPOSTION" font-family="GillSansMT, Gill Sans MT" font-size="9" font-weight="normal" letter-spacing="-0.0719999969" fill="#000000">
+                <tspan x="224" y="98">VALUE </tspan>
+                <tspan x="224" y="108">PROPOSTION</tspan>
+            </text>
+            <text id="Who-do-you-help?-Copy-3" font-family="GillSansMT, Gill Sans MT" font-size="23" font-weight="normal" line-spacing="19" letter-spacing="-0.184" fill="#000000">
+                <tspan x="521" y="58">Who do </tspan>
+                <tspan x="521" y="77">you help?</tspan>
+            </text>
+            <text id="VALUE-PROPOSTION-Copy" font-family="GillSansMT, Gill Sans MT" font-size="9" font-weight="normal" letter-spacing="-0.0719999969" fill="#000000">
+                <tspan x="521" y="98">VALUE </tspan>
+                <tspan x="521" y="108">PROPOSTION</tspan>
+            </text>
+            <text id="Going-though-the-Bus" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" letter-spacing="-0.505217612" fill="#000000">
+                <tspan x="46.3271346" y="300">Going though the Business Model Canvas</tspan>
+            </text>
+            <text id="Sorting-value-offeri" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" letter-spacing="-0.505217612" fill="#000000">
+                <tspan x="529.145831" y="300">Sorting value offerings into Features and Content</tspan>
+            </text>
+            <path d="M326.5,29.5 L326.5,252.5" id="Line" stroke="#000000" stroke-linecap="square"></path>
+            <image id="Bitmap" x="369" y="133.586667" width="111" height="49.8266667" xlink:href="data:image/png;base64,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"></image>
+        </g>
+    </g>
+</svg>
