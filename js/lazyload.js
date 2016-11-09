@@ -1,5 +1,5 @@
 $(function() {
   $("img.lazy").lazyload({
-    threshold : 300
+    threshold : 350
   });
 });
