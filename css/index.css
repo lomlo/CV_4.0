@@ -83,7 +83,7 @@ h3 { font-size: 1.5rem; }
   width: 100%;
 }
 
-.fill-width, .md-fill-width-90-percent {
+.fill-width, .md-fill-width-90-percent, .fill-width-80-percent {
   width: 100%;
   height: auto;
 }
@@ -496,6 +496,13 @@ a.active {
     height:auto;
     margin-left: 5%;
     margin-right: 5%;
+  }
+
+  .fill-width-80-percent {
+    width: 80%;
+    height:auto;
+    margin-left: 10%;
+    margin-right: 10%;
   }
 
   #md-upwards {
