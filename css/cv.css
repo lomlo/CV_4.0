@@ -1,6 +1,7 @@
 .spotlight {
   padding-top: 50px;
   background: #EAEAEA;
+
 }
 
 .spotlight-background {
@@ -23,6 +24,8 @@
 #spotlight-image {
   width: 80%;
   height: 80%;
+  background-image: url(../img/cv/cv-image.png);
+  background-size: cover;
   /*background-color: black;*/
 }
 
