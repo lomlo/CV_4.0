@@ -83,7 +83,7 @@ h3 { font-size: 1.5rem; }
   width: 100%;
 }
 
-.fill-width, .md-fill-width-90-percent, .fill-width-80-percent {
+.fill-width, .md-fill-width-90-percent, .fill-width-80-percent, .fill-width-70-percent {
   width: 100%;
   height: auto;
 }
@@ -91,13 +91,6 @@ h3 { font-size: 1.5rem; }
 .fill-height {
   height: 100%;
   width: auto;
-}
-
-.fill-width-70-percent {
-  width: 70%;
-  height:auto;
-  margin-left: 15%;
-  margin-right: 15%;
 }
 
 .fill-width-50-percent {
@@ -503,6 +496,13 @@ a.active {
     height:auto;
     margin-left: 10%;
     margin-right: 10%;
+  }
+
+  .fill-width-70-percent {
+    width: 70%;
+    height:auto;
+    margin-left: 15%;
+    margin-right: 15%;
   }
 
   #md-upwards {

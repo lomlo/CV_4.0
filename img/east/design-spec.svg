@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1024" height="1024"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1024" height="1024" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop">
+            <use id="BG" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <path d="M512.5,2.5 L512.5,1023.53134" id="Line" stroke="#979797" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M1025.5,512.5 L1.14410482,512.5" id="Line" stroke="#979797" stroke-width="3" stroke-linecap="square"></path>
+            <text id="User-Needs" font-family="OpenSans-Semibold, Open Sans" font-size="40" font-weight="500" letter-spacing="-1.44347775" fill="#000000">
+                <tspan x="37.3873106" y="78">User Needs</tspan>
+            </text>
+            <text id="Assumptions" font-family="OpenSans-Semibold, Open Sans" font-size="40" font-weight="500" letter-spacing="-1.44347775" fill="#000000">
+                <tspan x="551" y="78">Assumptions</tspan>
+            </text>
+            <text id="User-Goals" font-family="OpenSans-Semibold, Open Sans" font-size="40" font-weight="500" letter-spacing="-1.44347775" fill="#000000">
+                <tspan x="37" y="592">User Goals</tspan>
+            </text>
+            <text id="Constraints" font-family="OpenSans-Semibold, Open Sans" font-size="40" font-weight="500" letter-spacing="-1.44347775" fill="#000000">
+                <tspan x="552.060221" y="592">Constraints</tspan>
+            </text>
+            <text id="•-Designing-for-adul" font-family="OpenSans-Semibold, Open Sans" font-size="20" font-weight="500" letter-spacing="-0.721738875" fill="#000000">
+                <tspan x="46" y="166">	• 	Designing for adults (18+) who have access </tspan>
+                <tspan x="82" y="193">to the internet</tspan>
+            </text>
+            <text id="•-Target-users-have" font-family="OpenSans-Semibold, Open Sans" font-size="20" font-weight="500" letter-spacing="-0.721738875" fill="#000000">
+                <tspan x="542" y="166">	•	Target users have access to the internet</tspan>
+                <tspan x="542" y="193">	•	Target users understands how to use the </tspan>
+                <tspan x="578" y="220">internet</tspan>
+                <tspan x="542" y="247">	•	Target users want to use the restaurant </tspan>
+                <tspan x="578" y="274">website to achieve the listed user goals</tspan>
+                <tspan x="955.041016" y="274"></tspan>
+            </text>
+            <text id="•-Time:-2-week-deadl" font-family="OpenSans-Semibold, Open Sans" font-size="20" font-weight="500" letter-spacing="-0.721738875" fill="#000000">
+                <tspan x="542" y="646">	•	Time: 2 week deadline to deliver Mockups</tspan>
+                <tspan x="542" y="673">	•	Budget: none</tspan>
+                <tspan x="542" y="700">	•	Facilities: none</tspan>
+                <tspan x="542" y="727">	•	Success criteria: drive more traffic to </tspan>
+                <tspan x="578" y="754">contact or address information </tspan>
+                <tspan x="882.84375" y="754"></tspan>
+            </text>
+            <text id="Adults-should-easily" font-family="OpenSans-Semibold, Open Sans" font-size="20" font-weight="500" letter-spacing="-0.721738875" fill="#000000">
+                <tspan x="46" y="646">Adults should easily be able to:</tspan>
+                <tspan x="46" y="673"></tspan>
+                <tspan x="46" y="700">	•	Find the restaurant location</tspan>
+                <tspan x="46" y="727">	•	Find restaurant accessibility (opening </tspan>
+                <tspan x="82" y="754">hours, number of seats, disabled access, </tspan>
+                <tspan x="82" y="781">parking)</tspan>
+                <tspan x="46" y="808">	•	Understand how to make bookings and </tspan>
+                <tspan x="82" y="835">order deliveries and easily acomplish </tspan>
+                <tspan x="82" y="862">each task</tspan>
+                <tspan x="173.552734" y="862"></tspan>
+            </text>
+        </g>
+    </g>
+</svg>
