@@ -91,8 +91,8 @@
                         <tspan x="12" y="69">VALUE </tspan>
                         <tspan x="12" y="79">PROPOSTION</tspan>
                     </text>
-                    <text id="Offers-Vegetarian-Copy" fill="#000000" font-family="Helvetica" font-size="12" font-weight="normal">
-                        <tspan x="12" y="112">Offers Vegetarian</tspan>
+                    <text id="Offers-vegetarian" fill="#000000" font-family="Helvetica" font-size="12" font-weight="normal">
+                        <tspan x="12" y="112">Offers vegetarian</tspan>
                     </text>
                     <text id="options-copy" fill="#000000" font-family="Helvetica" font-size="12" font-weight="normal">
                         <tspan x="12" y="123">options</tspan>
